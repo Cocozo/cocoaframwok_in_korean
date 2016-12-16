@@ -4,7 +4,7 @@ framework
 
   - 당신의 macOS 어플리케이션의 **user interface** 를 설계하고 관리하세요. 
   - 사용자 **상호 작용 및 시스템 이벤트에 대해 대응**하고, **접근성을 활성화** 하며, **문서**, **텍스트**, **이미지 처리**를 합니다.
- ---
+
 ##Overview
 
 AppKit은 시각적이고, 이벤트 중심의 UI 에 대한 모든 객체를 포함하는 프레임워크입니다. (windows, panels, buttons, menus, scrollers, and text fields 같은것들 말이죠.)
